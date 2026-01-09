@@ -13,3 +13,16 @@ fuction multiply(a,b)
 {
     return a*b;
 }
+
+fuction division (a,b)
+{
+    return a/b;
+}
+
+module.exports = {
+add,
+subtract,
+multiply,
+division
+
+}
